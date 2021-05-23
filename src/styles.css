@@ -1,0 +1,17 @@
+@import url(https://okay-ui.netlify.app/card.css);
+@import url(https://okay-ui.netlify.app/button.css);
+@import url(https://use.fontawesome.com/releases/v5.15.3/css/all.css);
+
+.App {
+  text-align: center;
+}
+div {
+  margin-bottom: 0.5rem;
+}
+.card-parent {
+  justify-content: space-around;
+}
+.container-center {
+  max-width: 75%;
+  margin: auto;
+}
